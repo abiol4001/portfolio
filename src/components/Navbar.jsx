@@ -4,7 +4,7 @@ import Sidebar from './Sidebar';
 
 const Navbar = () => {
   return (
-    <div className="h-[100px]  flex justify-between">
+    <div className="h-[100px] flex justify-between z-[10]">
       {/* Sidebar */}
       <Sidebar />
 

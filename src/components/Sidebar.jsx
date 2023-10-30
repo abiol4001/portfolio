@@ -47,7 +47,7 @@ const Sidebar = () => {
   return (
     <motion.div
       animate={open ? "open" : "closed"}
-      className="flex flex-col items-center justify-center bg-white text-black"
+      className="flex flex-col items-center justify-center bg-white text-black z-50"
     >
       <motion.div
         className="fixed top-0 left-0 bottom-0 w-[400px] h-full flex flex-col gap-5 items-center justify-center bg-white"
