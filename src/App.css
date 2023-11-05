@@ -21,3 +21,7 @@ section {
 body {
   background-color: #0c0c1d;
 }
+
+input, textarea {
+  background: transparent;
+}
