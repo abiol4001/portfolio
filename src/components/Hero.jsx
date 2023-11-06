@@ -50,7 +50,7 @@ const Hero = () => {
             See the latest works
           </button>
           <button className="rounded-lg bg-white text-black border py-3 px-3">
-            <a href="#Contact">Contact me</a>
+            <a href="#Contact">Let's work</a>
           </button>
         </motion.div>
       </motion.div>

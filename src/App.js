@@ -1,5 +1,6 @@
 import "./App.css";
 import Contact from "./components/Contact";
+import Experience from "./components/Experience";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Parallax from "./components/Parallax";
@@ -20,6 +21,9 @@ function App() {
       <section>Parallax</section>
       <section id="Portfolio"></section>
       <Portfolio />
+      <section id="Experience" className="!m-h-[100vh] overflow-scroll">
+        <Experience />
+      </section>
       <section id="Contact">
         <Contact />
       </section>
