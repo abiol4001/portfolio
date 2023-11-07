@@ -5,6 +5,7 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Parallax from "./components/Parallax";
 import Portfolio from "./components/Portfolio";
+import Skills from "./components/Skills";
 
 function App() {
   return (
@@ -16,10 +17,7 @@ function App() {
       <section id="">
         <Parallax />
       </section>
-      <section id="Services">Services</section>
-      <section>Parallax</section>
-      <section>Parallax</section>
-      <section id="Portfolio"></section>
+      <section id="Services"><Skills /></section>
       <Portfolio />
       <section id="Experience" className="!m-h-[100vh] overflow-scroll">
         <Experience />

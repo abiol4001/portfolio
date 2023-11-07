@@ -12,15 +12,19 @@ export const skillsData = [
   "Git",
   "Tailwind",
   "Prisma",
+  "DrizzleORM",
   "MongoDB",
   "Redux",
-  "GraphQL",
-  "Apollo",
+  "RESTful API",
+  "MySQL",
   "Express",
   "PostgreSQL",
-  "Python",
-  "Django",
+  "Postman",
+  "Firebase",
   "Framer Motion",
+  "Linux",
+  "Shell Scripting",
+  "Open AI"
 ];
 
 export const experiencesData = [

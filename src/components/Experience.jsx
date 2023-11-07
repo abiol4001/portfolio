@@ -8,8 +8,8 @@ import React from "react";
 
 const Experience = () => {
   return (
-    <div className="overflow-scroll">
-      <h1 className=" text-3xl lg:text-6xl text-center pt-[50px] font-bold">
+    <div className="overflow-scroll py-[60px]">
+      <h1 className=" text-3xl lg:text-6xl text-center mb-[20px] font-bold">
         Experience
       </h1>
       <VerticalTimeline>

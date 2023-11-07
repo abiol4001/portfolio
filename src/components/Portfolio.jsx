@@ -32,7 +32,7 @@ const Portfolio = () => {
     damping: 30
   })
   return (
-    <div className="relative" ref={ref}>
+    <div className="relative" ref={ref} id="Portfolio">
       <div className="sticky top-0 left-0 text-3xl lg:text-6xl text-center pt-[50px] font-bold">
         <h1>Features Works</h1>
         <motion.div
